@@ -1,0 +1,4 @@
+Student
+"Egor Ternovskyi"
+kb-42
+06.11.2003
