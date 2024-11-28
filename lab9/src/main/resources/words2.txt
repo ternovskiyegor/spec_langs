@@ -1,0 +1,12 @@
+apple
+pear
+cucumber
+apple
+orange
+banana
+cucumber
+grape
+pear
+pineapple
+apple
+peach

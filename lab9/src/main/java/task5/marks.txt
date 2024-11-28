@@ -1,0 +1,7 @@
+Petrov KB-41 java 99
+Semyonov KS-42 Algorithms 92
+Petrov KB-41 KSS 95
+Petrov KB-41 KSM 95
+Ivanov KU-33 economic 80
+Semyonov KS-42 TKS 94
+Antonov KU-41 java 100

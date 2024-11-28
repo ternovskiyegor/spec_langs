@@ -5,18 +5,19 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 
 public class Main {
-    private static final String path = "D:\\4 курс\\спецмови\\project\\lab5\\src\\main\\java\\task3\\";
+    private static final String path = System.getProperty("user.dir") + "/task3/";
 
+    // java task3.Main file1.txt file2.txt
     public static void main(String[] args) throws IOException {
-        /* if (args.length < 2) {
+        if (args.length < 2) {
             System.out.println("To few arguments. Should be two args: sourceFile, destinationFile");
             return;
         }
         String srcFile = args[0];
         String destFile = args[1];
-        */
-        String srcFile = "file1.txt";
-        String destFile = "file2.txt";
+
+        System.out.println(srcFile);
+        System.out.println(destFile);
         try (FileInputStream fis = new FileInputStream(path + srcFile);
              FileOutputStream fos = new FileOutputStream(path + destFile)) {
             int i;

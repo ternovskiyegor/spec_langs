@@ -1,0 +1,2 @@
+Hello, World! This is a sample text-file №123 with various
+symbols: %, *, (, ), +, and numbers like 42 and 365.
